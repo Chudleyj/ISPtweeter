@@ -1,5 +1,5 @@
 # ISPtweeter
-Easily tweet your crappy internet speeds at your ISP
+Easily tweet your slow internet speeds at your ISP
 
 Install: 
 pip install speedtest_cli
